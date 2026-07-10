@@ -18,6 +18,9 @@ measurements, panoramic reconstruction, and AWS cloud storage.
 ---
 <div align="center">
 <img src="https://github.com/hussainxbot1c/OsteoViewer/blob/main/screen%202.png.jpg" width="200"/>
+<img src="https://github.com/hussainxbot1c/OsteoViewer/blob/main/screen%201.png.jpg" width="200"/>
+<img src="https://github.com/hussainxbot1c/OsteoViewer/blob/main/Screenshot_2026-05-05-22-49-37-18_68e5f902fd7177246c998d894d511aa1.jpg" width="200"/>
+<img src="https://github.com/hussainxbot1c/OsteoViewer/blob/main/Screenshot_2026-05-05-22-51-02-17_68e5f902fd7177246c998d894d511aa1.jpg" width="200"/>
 </div>
 
 ## Overview
