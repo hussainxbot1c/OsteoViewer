@@ -16,6 +16,9 @@ measurements, panoramic reconstruction, and AWS cloud storage.
 </div>
 
 ---
+<div align="center">
+<img src="https://github.com/hussainxbot1c/OsteoViewer/blob/main/screen%202.png.jpg" width="200"/>
+</div>
 
 ## Overview
 
