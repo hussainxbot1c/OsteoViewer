@@ -17,19 +17,6 @@ measurements, panoramic reconstruction, and AWS cloud storage.
 
 ---
 
-## Screenshots
-
-<!-- Add your screenshots here — see instructions below -->
-
-<div align="center">
-<img src="screenshots/screen 1.png.jpg" width="200"/>
-<img src="screenshots/screen2.png" width="200"/>
-<img src="screenshots/screen3.png" width="200"/>
-<img src="screenshots/screen4.png" width="200"/>
-</div>
-
----
-
 ## Overview
 
 OsteoViewer is a production-grade DICOM viewer built for clinical
@@ -99,23 +86,6 @@ Panoramic reconstruction computed and rendered
 
 ---
 
-## How to Add Screenshots to This Repo
-
-```bash
-# Step 1 — Create screenshots folder in your repo
-mkdir screenshots
-
-# Step 2 — Add your image files into that folder
-# Name them: screen1.png, screen2.png, screen3.png, screen4.png
-
-# Step 3 — Commit and push
-git add screenshots/
-git commit -m "Add OsteoViewer screenshots"
-git push origin main
-```
-
----
-
 ## Target Users
 
 - Radiologists reviewing scan studies on mobile
@@ -134,12 +104,12 @@ launch upcoming after QA completion.
 
 ## Developer
 
-**Ahmad Raza**
+**HUSSAIN AHMED**
 Senior Flutter and Mobile AI Developer
 8 years experience, 30+ production apps shipped
 
-- Upwork: https://www.upwork.com/freelancers/xbot
-- Email: hassanxbot1c@gmail.com
+- Upwork: https://www.upwork.com/freelancers/~01364d92ed7bc15724
+- Email: hussainxbot1c@gmail.com
 - NourishDoc: https://apps.apple.com/us/app/nourishdoc-midlife-wellness/id6743374362
 - MixerCloud: https://apps.apple.com/us/app/mixercloud/id6740339899
 - Beautora: https://apps.apple.com/us/app/beautora/id6745489516
