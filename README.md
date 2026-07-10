@@ -4,7 +4,7 @@
 ### Clinical DICOM Viewer for iOS & Android
 
 A professional-grade mobile DICOM imaging app built for radiologists,
-dentists, and orthopaedic specialists — multi-plane review, precise
+dentists, and orthopaedic specialists multi-plane review, precise
 measurements, panoramic reconstruction, and AWS cloud storage.
 
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%26%20Android-blue?style=flat-square)]()
@@ -22,7 +22,7 @@ measurements, panoramic reconstruction, and AWS cloud storage.
 OsteoViewer is a production-grade DICOM viewer built for clinical
 professionals on mobile. Clinicians can upload DICOM scans, navigate
 axial, coronal, and sagittal planes, place precise measurements and
-markers, and store studies securely in the cloud — all from iOS or
+markers, and store studies securely in the cloud all from iOS or
 Android without requiring desktop software.
 
 ---
